@@ -78,4 +78,6 @@ prefiere = [
 
 StableMarriage(prefiere)
 
+#Complejidad temporal: 0(n^2)
+#Complejidad espacial: 0(n)
 
